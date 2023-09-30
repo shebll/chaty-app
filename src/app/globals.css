@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.middle-card {
+  position: relative;
+}
+
+
+.middle-card::before,
+.middle-card::after {
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: 100px;
+  background-color: rgb(145, 145, 145);
+}
+
+.middle-card::after {
+  left: -100px;
+  top: -20px;
+}
+
+.middle-card::before {
+  right: -100px;
+  bottom: -20px;
+
+}
