@@ -1,0 +1,16 @@
+<svg width="46" height="38" viewBox="0 0 46 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 90">
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M9.25 0C4.41751 0 0.5 3.91751 0.5 8.75V28.75C0.5 33.5825 4.41751 37.5 9.25 37.5H34.25C37.7018 37.5 40.5 34.7018 40.5 31.25H38C38 33.3211 36.3211 35 34.25 35H9.25C5.79822 35 3 32.2018 3 28.75V8.75C3 5.29822 5.79822 2.5 9.25 2.5H34.25C36.3211 2.5 38 4.17893 38 6.25H40.5C40.5 2.79822 37.7018 0 34.25 0H9.25ZM43.382 5.11253L30.1821 17.8506C29.6727 18.3421 29.6727 19.1581 30.1821 19.6496L43.382 32.3876C44.1756 33.1535 45.5 32.5911 45.5 31.4881V27.1934L42.1228 23.9344C41.9191 23.7378 41.9191 23.4114 42.1228 23.2148L45.5 19.9558V15.1308L39.5972 20.8271C39.4035 21.0141 39.0965 21.0141 38.9028 20.8271L37.1228 19.1094C36.9191 18.9128 36.9191 18.5864 37.1228 18.3898L45.5 10.3058V6.01202C45.5 4.90908 44.1756 4.34665 43.382 5.11253Z" fill="#53A8CB"/>
+<path id="Vector 30" d="M14.25 11.25L26.75 18.75L14.25 26.25V11.25Z" fill="url(#paint0_diamond_1018_1497)" stroke="url(#paint1_radial_1018_1497)" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+<defs>
+<radialGradient id="paint0_diamond_1018_1497" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(20.5 18.75) rotate(180) scale(6.25 7.5)">
+<stop stop-color="#8881B9"/>
+<stop offset="1" stop-color="#EC99BA"/>
+</radialGradient>
+<radialGradient id="paint1_radial_1018_1497" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(20.5 18.75) rotate(90) scale(7.5 6.25)">
+<stop stop-color="#8881B9"/>
+<stop offset="1" stop-color="#EC99BA"/>
+</radialGradient>
+</defs>
+</svg>
